@@ -1,5 +1,7 @@
 # Module 03 Mini-Project: Rock, Paper, Scissors
 
+*making changes to this file to test if I have shared with GitHub correctly*
+
 In this activity, you will work with a group to build a game using only JavaScript.
 
 ## Instructions
