@@ -1,0 +1,11 @@
+✅ create a loop that only ends upon pressing cancel
+✅ create some type of data store to store our game statistics
+✅ find a way to store user input 
+do later--  find a way to validate our users input
+✅ find a way to generate computer input
+✅ find a way to decide who wins? e.g. randomly generate a letter from r,s,p
+✅ find a way to declare and notify of winning e.g. "you win!" or "you lose"
+to do --  find a way to ask whether the user wants to play another game or not 
+    if(the user decides to cancel)
+        stop the game 
+        report stats 
